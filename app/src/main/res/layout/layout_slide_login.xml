@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_image_slide_login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="0dp"
+        android:layout_margin="0dp"
+        android:scaleType="center"
+        android:layout_marginBottom="0dp"
+        android:layout_above="@+id/layout_text_login"
+        android:layout_centerInParent="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ilus_man_plane"
+        />
+
+    <LinearLayout
+        android:id="@+id/layout_text_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_slide_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:fontFamily="@font/poppins_semibold"
+            android:gravity="center"
+            android:lineSpacingExtra="-12sp"
+            android:includeFontPadding="false"
+            android:text="Procure por novas pessoas, fácil e rápido, agora."
+            android:textColor="@color/colorDark090"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/tv_slide_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:textAlignment="center"
+            android:layout_marginTop="-4dp"
+            android:gravity="center"
+            android:fontFamily="@font/cairo"
+            android:textColor="@color/colorDark070"
+            android:letterSpacing="0.02"
+            android:lineSpacingExtra="-12sp"
+            android:textSize="18sp"
+            android:text="@string/text_description_small"
+            android:includeFontPadding="false"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

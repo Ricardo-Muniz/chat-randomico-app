@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_view_contact_user"
+        android:title="Ver contato"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_change_background"
+        android:title="Mudar plano de fundo"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_block_user"
+        android:title="Bloquear usuario"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_report_user"
+        android:title="Reportar"
+        app:showAsAction="never"/>
+
+</menu>

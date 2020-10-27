@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <!-- colors light -->
+    <color name="colorLight05">#f2f2f2</color>
+    <color name="colorLight010">#e5e5e5</color>
+    <color name="colorLight020">#cccccc</color>
+    <color name="colorLight030">#b2b2b2</color>
+
+    <color name="colorPrimaryBase">#6B6E8D</color>
+    <color name="mtrl_textinput_default_box_stroke_color">@color/colorLight020</color>
+
+
+    <!-- colors secondary dark -->
+    <color name="colorDarkSecondary010">#31313a</color>
+    <color name="colorDarkSecondary020">#3b3b4a</color>
+    <color name="colorDarkSecondary030">#45465b</color>
+    <color name="colorDarkSecondary040">#4f506b</color>
+    <color name="colorDarkSecondary05">#2c2c31</color>
+
+    <!-- colors secondary light -->
+    <color name="colorLightSecondary070">#BA6D6F9E</color>
+    <color name="colorLightSecondary080">#257779AE</color>
+    <color name="colorLightSecondary090">#8183bf</color>
+
+    <color name="colorLightBlue">#CEEEFB</color>
+    <color name="colorYellow">#fbd56b</color>
+    <color name="colorGreen">#71db9f</color>
+    <color name="colorGreenOpacity">#2771DB9F</color>
+
+    <!-- colors dark -->
+    <color name="colorDark070">#4c4c4c</color>
+    <color name="colorDark080">#333333</color>
+    <color name="colorDark090">#191919</color>
+
+
+</resources>

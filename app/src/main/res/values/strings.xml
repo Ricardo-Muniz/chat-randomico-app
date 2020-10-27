@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Random Chat</string>
+    <string name="text_title_small">Build your life</string>
+    <string name="text_description_large">Offer people a seamless experience across the entire portfolio of Microsoft\'s mobile apps. Whether it\'s for a client, partner, or your own customers, design and build custom apps that are natively Android while still uniquely Fluent.</string>
+    <string name="text_description_small">Offer people a seamless experience across the entire portfolio of Microsoft\'s mobile apps. Whether it\'s for a client.</string>
+    <string name="text_description_small_02">They should be easy to scan for relevant and actionable information. Elements, like text and images, should be placed.</string>
+    <string name="text_description_small_03">Each card is made up of content blocks. All of the blocks, as a whole, are related to a single subject or destination.</string>
+
+    <string name="url_image_man_yellow">https://mandajob-api-recomend.web.app/Images/img_man_black_yellow.png</string>
+    <string name="url_image_girl_red">https://mandajob-api-recomend.web.app/Images/mulher_negra.png</string>
+    <string name="url_image_man_blue_black_power">https://i.pinimg.com/564x/17/40/d5/1740d5a64881af1efa07e6913e229b59.jpg</string>
+
+    <string-array name="genero">
+        <item>Homem</item>
+        <item>Mulher</item>
+    </string-array>
+
+    <string-array name="genero_preference">
+        <item>Homem</item>
+        <item>Mulher</item>
+        <item>Todos</item>
+    </string-array>
+
+
+</resources>
